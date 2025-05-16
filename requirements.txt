@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+openai # Or your specific LLM SDK
+google-search-results # For Serper API if used by search_web
+# Add any other specific dependencies your project uses e.g., httpx for scraping 
